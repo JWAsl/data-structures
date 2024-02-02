@@ -7,7 +7,7 @@ array_address + element_size * (i - first_index)
 
 ```
 
-![ArrayOne](images/ArrayOne.png)
+![ArrayOne](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayOne.PNG)
  To find the address of the element in i = 3 we do:
 ```
 array_address + element size * (3 - 0)
