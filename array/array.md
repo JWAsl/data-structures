@@ -4,6 +4,7 @@ Array's have constant time access to read/write any element in the array due to 
 
 ```
 array_address + element_size * (i - first_index)
+Note: In some languages the first index in the array is 1, not 0.
 
 ```
 
