@@ -8,12 +8,13 @@ array_address + element_size * (i - first_index)
 ```
 
 ![ArrayOne](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayOne.PNG)
- To find the address of the element in i = 3 we do:
+
+To find the address of the element in i = 3 we do:
 ```
 array_address + element size * (3 - 0)
 ```
 
-![ArrayTwo](images/ArrayTwo.png)
+![ArrayTwo](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayTwo.PNG)
 
 To find the address of the element in (2,3) we do:
 ```
@@ -30,14 +31,14 @@ We multiply by six to skip all the elements in the first 2 rows
 | End | O(1) | O(1) |
 **Inserting and removing at the beginning**
 
-![ArrayThree](images/ArrayThree.png)
+![ArrayThree](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayThree.PNG)
 
 **Inserting and removing in the middle**
 
-![ArrayFour](images/ArrayFour.png)
+![ArrayFour](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayFour.PNG)
 
 **Inserting and removing at the end**
 
-![ArrayFive](images/ArrayFive.png)
+![ArrayFive](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayFive.PNG)
 
 
