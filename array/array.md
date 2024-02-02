@@ -29,6 +29,7 @@ We multiply by six to skip all the elements in the first 2 rows
 | Beginning | O(n) | O(n) |
 | Middle | O(n) | O(n) |
 | End | O(1) | O(1) |
+
 **Inserting and removing at the beginning**
 
 ![ArrayThree](https://github.com/JWAsl/data-structures/blob/master/array/images/ArrayThree.PNG)
